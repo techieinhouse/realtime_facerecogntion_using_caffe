@@ -1,2 +1,2 @@
-# caffe_face
-real time face recognition using caffe
+# caffe_face_gender
+real time face and gender recognition using caffe
